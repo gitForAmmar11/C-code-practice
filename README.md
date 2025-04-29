@@ -9,6 +9,8 @@ This repository is intended to help beginners and intermediate learners understa
 - Arrays (1D and 2D)
 - Functions (with and without return values, with and without arguments)
 - Strings (handling and manipulation)
+- Pattern Printing
+- Structure and Union
 - File Handling (read, write, append)
 - Pointer basics
 - 📫 Contact me via e-mail: mdammarhossain11@gmail.com
